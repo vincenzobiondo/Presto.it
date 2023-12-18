@@ -1,12 +1,2 @@
-Legenda:
-/ = importato da tutti;
-| = ancora da importare;
-
-## Building degli Assets; 
-## Creato palette colori;
-## Importato Swiper; 
-## Register e Login
-##
-
-
-<!-- ! classi active navbar da fare  -->
+Realizzazione di un e-commerce completo 
+(HTML5,CSS3,JAVASCRIPT,PHP,LARAVEL)
